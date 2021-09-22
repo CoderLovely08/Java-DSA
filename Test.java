@@ -1,15 +1,19 @@
 package com.datastructures;
 
+import java.lang.reflect.Array;
 import java.util.Arrays;
+import java.util.Collections;
 
 public class Test {
 
-  public static void fun(int a, int b, int... v) {
-    System.out.println(Arrays.toString(v));
-    System.out.println(a + " " + b);
+  public static void fun(Integer a[]) {
+  
+  int aa=Collections.max(Arrays.asList(a));
+  System.out.print(a[0]);
   }
 
   public static void main(String[] args) {
-    fun(2, 3, 6, 4, 5);
+      Integer[] arr={1,2,3,4};
+      fun(arr);
   }
 }
