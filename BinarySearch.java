@@ -20,6 +20,7 @@ public class BinarySearch {
     return -1;
   }
 
+//hi
   public static void main(String[] args) {
     int[] arr = {12, 18, 24, 30, 36, 42};
     System.out.print(search(arr, 12));
