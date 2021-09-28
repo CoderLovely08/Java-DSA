@@ -15,7 +15,7 @@ public class RemoveDuplicate {
         continue;
       }
     }
-    return count + 1; 
+    return count + 1;
   }
 
   static int binarySearch(int[] arr, int target) {
