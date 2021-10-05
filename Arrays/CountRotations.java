@@ -4,7 +4,10 @@ public class CountRotations {
 
   static int countRotation(int[] arr) {
     int start = 0, end = arr.length - 1;
-    if (arr[start] < arr[end]) {
+    if (arr[start] > arr[end]) {
+      return 1;
+    }
+    if (arr[start] <= arr[end]) {
       return 0;
     }
     while (start <= end) {
@@ -23,7 +26,7 @@ public class CountRotations {
   }
 
   public static void main(String[] args) {
-    int[] arr = {11, 12, 13, 4, 5, 6, 7};
+    int[] arr = {11, 111};
     System.out.print(countRotation(arr));
   }
 }
