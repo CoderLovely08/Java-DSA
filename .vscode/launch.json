@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch FindMultiplyByTwo",
+            "request": "launch",
+            "mainClass": "Leetcode.FindMultiplyByTwo",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseList",
+            "request": "launch",
+            "mainClass": "Leetcode.LinkedList.ReverseList",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch MiddleNode",
+            "request": "launch",
+            "mainClass": "Leetcode.LinkedList.MiddleNode",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch DeleteNode",
+            "request": "launch",
+            "mainClass": "Leetcode.LinkedList.DeleteNode",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
             "name": "Launch SinglyLInkedList",
             "request": "launch",
             "mainClass": "LinkedList.SinglyLInkedList",
