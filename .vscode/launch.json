@@ -1,0 +1,273 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch SinglyLInkedList",
+            "request": "launch",
+            "mainClass": "LinkedList.SinglyLInkedList",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeTwoSortedList",
+            "request": "launch",
+            "mainClass": "Recursion.MergeTwoSortedList",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeSort",
+            "request": "launch",
+            "mainClass": "Recursion.MergeSort",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fibonacci",
+            "request": "launch",
+            "mainClass": "Recursion.Fibonacci",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "Recursion.BinarySearch",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfNaturalNumbers",
+            "request": "launch",
+            "mainClass": "Recursion.SumOfNaturalNumbers",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackC",
+            "request": "launch",
+            "mainClass": "Collection.StackC",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch GenericClass",
+            "request": "launch",
+            "mainClass": "Generics.GenericClass",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch GenericMethods",
+            "request": "launch",
+            "mainClass": "Generics.GenericMethods",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayConcatenation",
+            "request": "launch",
+            "mainClass": "Leetcode.ArrayConcatenation",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch BuySellStock",
+            "request": "launch",
+            "mainClass": "Leetcode.BuySellStock",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch DivideString",
+            "request": "launch",
+            "mainClass": "Leetcode.DivideString",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch EqualString",
+            "request": "launch",
+            "mainClass": "Leetcode.EqualString",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch GCD",
+            "request": "launch",
+            "mainClass": "Leetcode.GCD",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch HighestAltitude",
+            "request": "launch",
+            "mainClass": "Leetcode.HighestAltitude",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch JewelsAndStones",
+            "request": "launch",
+            "mainClass": "Leetcode.JewelsAndStones",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxSubArray",
+            "request": "launch",
+            "mainClass": "Leetcode.MaxSubArray",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaximumDifference",
+            "request": "launch",
+            "mainClass": "Leetcode.MaximumDifference",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeSorted",
+            "request": "launch",
+            "mainClass": "Leetcode.MergeSorted",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch PlusOne",
+            "request": "launch",
+            "mainClass": "Leetcode.PlusOne",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReshapeMatrix",
+            "request": "launch",
+            "mainClass": "Leetcode.ReshapeMatrix",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch RotateByK",
+            "request": "launch",
+            "mainClass": "Leetcode.RotateByK",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringLoweCase",
+            "request": "launch",
+            "mainClass": "Leetcode.StringLoweCase",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringOperation",
+            "request": "launch",
+            "mainClass": "Leetcode.StringOperation",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringReverse",
+            "request": "launch",
+            "mainClass": "Leetcode.StringReverse",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringShuffle",
+            "request": "launch",
+            "mainClass": "Leetcode.StringShuffle",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoSum",
+            "request": "launch",
+            "mainClass": "Leetcode.TwoSum",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoSumII",
+            "request": "launch",
+            "mainClass": "Leetcode.TwoSumII",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program1",
+            "request": "launch",
+            "mainClass": "LinkedList.Program1",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "Programs.BinarySearch",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ceiling",
+            "request": "launch",
+            "mainClass": "Programs.Ceiling",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch PeakInMountain",
+            "request": "launch",
+            "mainClass": "Programs.PeakInMountain",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch TowerOfHanoi",
+            "request": "launch",
+            "mainClass": "Programs.TowerOfHanoi",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch DecimalToBinary",
+            "request": "launch",
+            "mainClass": "Recursion.DecimalToBinary",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Palindrome",
+            "request": "launch",
+            "mainClass": "Recursion.Palindrome",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseString",
+            "request": "launch",
+            "mainClass": "Recursion.ReverseString",
+            "projectName": "DSA_79061d18"
+        }
+    ]
+}
