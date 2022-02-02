@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch CyclicSort",
+            "request": "launch",
+            "mainClass": "Programs.CyclicSort",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveNthNode",
+            "request": "launch",
+            "mainClass": "Leetcode.LinkedList.RemoveNthNode",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
             "name": "Launch FindMultiplyByTwo",
             "request": "launch",
             "mainClass": "Leetcode.FindMultiplyByTwo",
