@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Graph",
+            "request": "launch",
+            "mainClass": "Graphs.Graph",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch OddEvenList",
+            "request": "launch",
+            "mainClass": "Leetcode.LinkedList.OddEvenList",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch ListCycle",
+            "request": "launch",
+            "mainClass": "Leetcode.LinkedList.ListCycle",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch MissingNumber",
+            "request": "launch",
+            "mainClass": "Leetcode.MissingNumber",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
             "name": "Launch CyclicSort",
             "request": "launch",
             "mainClass": "Programs.CyclicSort",
