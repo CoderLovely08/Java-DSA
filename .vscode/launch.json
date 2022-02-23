@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SumOfDigits",
+            "request": "launch",
+            "mainClass": "Leetcode.SumOfDigits",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch DuplicateNumber",
+            "request": "launch",
+            "mainClass": "Leetcode.DuplicateNumber",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch DisappearedNumbers",
+            "request": "launch",
+            "mainClass": "Leetcode.DisappearedNumbers",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstPalindrome",
+            "request": "launch",
+            "mainClass": "Leetcode.FirstPalindrome",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch SmallerThanSelf",
+            "request": "launch",
+            "mainClass": "Leetcode.SmallerThanSelf",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern",
+            "request": "launch",
+            "mainClass": "GFG.Module1.Pattern",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxWordsSentence",
+            "request": "launch",
+            "mainClass": "Leetcode.MaxWordsSentence",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test2",
+            "request": "launch",
+            "mainClass": "Test2",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "Launch BST",
+            "request": "launch",
+            "mainClass": "Trees.BST",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
             "name": "Launch Graph",
             "request": "launch",
             "mainClass": "Graphs.Graph",
