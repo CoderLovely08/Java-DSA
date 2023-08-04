@@ -44,6 +44,7 @@ public class SinglyLInkedList {
         System.out.println("Enter a data value: ");
         Scanner sc = new Scanner(System.in);
         int data = sc.nextInt();
+        sc.close();
         Node myNode = new Node(data);
         myNode.link = head;
         head = myNode;
@@ -60,6 +61,7 @@ public class SinglyLInkedList {
         int data = sc.nextInt();
         System.out.println("After which value? ");
         int target = sc.nextInt();
+        sc.close();
         Node myNode = new Node(data);
         Node temp = head;
         while (temp != null) {
@@ -85,6 +87,7 @@ public class SinglyLInkedList {
         }
         temp.link = myNode;
         System.out.println("Insertion successfull!");
+        sc.close();
     }
 
     public static void searchInLinkedList() {
@@ -95,6 +98,7 @@ public class SinglyLInkedList {
         System.out.println("Enter a data value to be searched: ");
         Scanner sc = new Scanner(System.in);
         int target = sc.nextInt();
+        sc.close();
         Node temp = head;
         int counter = 1;
         while (temp != null) {
@@ -106,6 +110,7 @@ public class SinglyLInkedList {
             temp = temp.link;
         }
         System.out.println("Target not found!");
+
     }
 
     public static void deleteFromList() {
@@ -116,6 +121,8 @@ public class SinglyLInkedList {
         System.out.println("Enter a data value to be deleted: ");
         Scanner sc = new Scanner(System.in);
         int target = sc.nextInt();
+        sc.close();
+
         Node temp = head;
         while (temp.link != null) {
             if (temp.data == target) {
@@ -137,9 +144,9 @@ public class SinglyLInkedList {
 
         while (true) {
             printMemu();
-            Scanner input = new Scanner(System.in);
+            Scanner sc = new Scanner(System.in);
             System.out.println("Enter a choice: ");
-            int choice = input.nextInt();
+            int choice = sc.nextInt();
             // input.close();
             switch (choice) {
                 case 1:
@@ -167,6 +174,7 @@ public class SinglyLInkedList {
                     System.out.println("Wrong Input!");
                     break;
             }
+            sc.close();
         }
     }
 

@@ -1,6 +1,5 @@
 package Recursion;
 
-import org.w3c.dom.Node;
 
 public class MergeTwoSortedList {
 
